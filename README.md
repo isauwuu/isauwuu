@@ -72,6 +72,17 @@
 <br clear="both">
 
 <p align="center">
+ <br clear="both">
+
+<h3> ⊹ ｡ GitHub Statistics ✧ </h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isauwuu&show_icons=true&theme=tokyo-night&rank_icon=github&border_radius=10&hide_border=true" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isauwuu&theme=tokyo-night&area=true&hide_border=true" />
+</p>
+
+<p align="center">
   <br>
   ⊹ ｡ ﾟ ☁︎｡ ⋆ ｡ ˚ ☾ ﾟ ｡ ⊹
 </p>
