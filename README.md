@@ -74,9 +74,7 @@
 <h3> ⊹ ｡ GitHub Activity ✧ </h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=isauwuu&theme=tokyonight&no-bg=true&margin-w=15&column=3" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isauwuu&theme=tokyo-night&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isauwuu&bg_color=0D1117&color=D2B48C&line=8B4513&point=F5F5DC&area=true&hide_border=true&area_color=D2B48C" />
 </p>
 
 <p align="center">
