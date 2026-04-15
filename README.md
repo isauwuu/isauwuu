@@ -29,7 +29,7 @@
 <div style="display: block; width: 100%;">
 
   <div style="float: right; font-family: monospace; line-height: 1.2; margin-top: 20px; margin-right: 50px;">
-   <br>&nbsp; ╱|、♡<br>
+   &nbsp; ╱|、♡<br>
     (`&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;7<br>
     &nbsp;|、⁻〵<br>
     &nbsp;じしˍ,)ノ
