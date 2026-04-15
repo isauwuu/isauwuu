@@ -8,7 +8,7 @@
   <br>
   <code> ₊˚⊹ ♡ ⊹˚₊ </code>
 
-  <p>Passionate about technology and committed to continuous learning. I am an <b>advanced programming student</b> constantly seeking new challenges that allow me to apply my knowledge to build innovative technological solutions.</p>
+  <p>Passionate about technology and committed to continuous learning. Im an <b>advanced programming student</b> constantly seeking new challenges that allow me to apply my knowledge to build innovative technological solutions.</p>
   
   <p>My current technical focus is heavily geared towards <b>Backend Development</b> and <b>System Architecture</b>. I specialize in <b>Java</b> (OOP, concurrency, and low-level design), and I'm actively exploring how to build robust, scalable foundations that connect clean code with intelligent data solutions.</p>
 </div>
