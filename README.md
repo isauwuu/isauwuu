@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   </span>  
 
-  <h4> ⊹ ｡ Currently Learning (UPATecO) </h4>
+  <h4> ⊹ ｡ Currently Learning  </h4>
   <span>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -71,13 +71,10 @@
 
 <br clear="both">
 
-<p align="center">
- <br clear="both">
-
-<h3> ⊹ ｡ GitHub Statistics ✧ </h3>
+<h3> ⊹ ｡ GitHub Activity ✧ </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isauwuu&show_icons=true&theme=tokyo-night&rank_icon=github&border_radius=10&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=isauwuu&theme=tokyonight&no-bg=true&margin-w=15&column=3" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isauwuu&theme=tokyo-night&area=true&hide_border=true" />
 </p>
