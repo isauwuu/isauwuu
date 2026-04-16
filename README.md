@@ -71,11 +71,15 @@
 
 <br clear="both">
 
-<h3> ⊹ ｡ GitHub Activity ✧ </h3>
+<div align="center">
+  <h3> ⊹ ｡ GitHub Activity & Streak ✧ </h3>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isauwuu&bg_color=0D1117&color=D2B48C&line=8B4513&point=F5F5DC&area=true&hide_border=true&area_color=D2B48C" />
-</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isauwuu&point=F5F5DC&title_color=8B4513&bg_color=0D1117&line=8B4513&hide_border=true&area=true&area_color=D2B48C&color=D2B48C">
+  
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isauwuu&background=0D1117&ring=8B4513&fire=D2B48C&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=F5F5DC&dates=F5F5DC&currStreakLabel=F5F5DC&hide_border=true" width="60%"/>
+</div>
 
 <p align="center">
   <br>
