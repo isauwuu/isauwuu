@@ -22,8 +22,8 @@
 
 <p>
   ✧ <b>Technical Degree in Programming</b> (Final year)<br>
-  ✧ <b>Technical Degree in Artificial Intelligence & Machine Learning</b><br>
-  ✧ <b>Technical Degree in Cloud Infrastructure & DevOps</b>
+✧ <b>Technical Degree in AI & Machine Learning</b> — In progress<br>
+✧ <b>Technical Degree in Cloud Infrastructure & DevOps</b> — In progress<br>
 </p>
 <h3> ⊹ ｡ Computer Architecture & Low-Level Foundations ✧ </h3>
 
