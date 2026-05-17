@@ -10,7 +10,7 @@
 
   <p> Passionate about low-level foundations and system design. I'm an advanced programming student who enjoys understanding how things actually work under the hood — from logic gates to application architecture.</p>
   
-  <p>MMy focus right now is Backend Development in Java — OOP, concurrency, and clean design. I'm also getting into Python and Linux on the side, and slowly exploring how all of this connects with data and cloud infrastructure.</p>
+  <p>My focus right now is Backend Development in Java — OOP, concurrency, and clean design. I'm also getting into Python and Linux on the side, and slowly exploring how all of this connects with data and cloud infrastructure.</p>
 </div>
 
 <br clear="both">
