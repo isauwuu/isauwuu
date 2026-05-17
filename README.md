@@ -25,7 +25,14 @@
   ✧ <b>Technical Degree in Artificial Intelligence & Machine Learning</b><br>
   ✧ <b>Technical Degree in Cloud Infrastructure & DevOps</b>
 </p>
+<h3> ⊹ ｡ Computer Architecture & Low-Level Foundations ✧ </h3>
 
+<p>
+  ✧ <b>Processor Architecture & Assembly:</b> Hands-on experience with the <b>Intel 8086 microarchitecture</b> and instruction set using <b>EMU8086</b>. Mastery of registers, memory segmenting, and hardware-level execution flow.<br>
+  ✧ <b>Machine Organization:</b> Deep understanding of the Von Neumann architecture through the <b>MARIE</b> simulator, covering the Fetch-Decode-Execute cycle and custom microprogram design.<br>
+  ✧ <b>Digital Logic & Circuits:</b> Solid foundations in logic gates, Boolean algebra, combinational circuits (mux/demux, adders), and sequential logic design.<br>
+  ✧ <b>Microprogramming & Control Units:</b> Insight into how hardware instructions are broken down into micro-operations to drive the CPU's control unit.
+</p>
 <div style="display: block; width: 100%;">
 
   <div style="float: right; font-family: monospace; line-height: 1.2; margin-top: 20px; margin-right: 50px;">
