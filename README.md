@@ -21,7 +21,7 @@
 </h2>
 
 <p>
-  ✧ <b>Technical Degree in Programming</b> (Final year)<br>
+  ✧ <b>Technical Degree in Programming</b> — Final year<br>
 ✧ <b>Technical Degree in AI & Machine Learning</b> — In progress<br>
 ✧ <b>Technical Degree in Cloud Infrastructure & DevOps</b> — In progress<br>
 </p>
