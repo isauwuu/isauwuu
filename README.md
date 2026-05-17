@@ -36,11 +36,12 @@
 <div style="display: block; width: 100%;">
 
   <div style="float: right; font-family: monospace; line-height: 1.2; margin-top: 20px; margin-right: 50px;">
-   &nbsp; ╱|、♡<br>
-    (`&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;7<br>
-    &nbsp;|、⁻〵<br>
-    &nbsp;じしˍ,)ノ
-  </div>
+ <pre>
+  ／l、
+（ﾟ､ ｡ ７
+ l、ﾞ ~ヽ
+ じしf_, )ノ
+</pre>
 
   <h4> ⊹ ｡ Core Stack & Tools </h4>
   <span>
